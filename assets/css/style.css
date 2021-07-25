@@ -70,3 +70,39 @@ button.btn.chat {
 .member-top {
   margin: 70px 0;
 }
+.our_work {
+  background-color: #f2e9e4;
+}
+.text {
+  width: 50%;
+}
+.img_txt {
+  width: 50%;
+  background-color: red;
+}
+.our_txt {
+  background-color: white;
+  margin: 50px 0 50px 0;
+  width: 400px;
+  /* display: flex; */
+}
+.our_txt > h1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 7px;
+}
+.our_txt.d-flex.flex-column.align-items-center {
+  border-radius: 13px;
+  margin: 50px 15px 66px 15px;
+  padding: 22px 20px;
+}
+.our_txt > button {
+  margin: 40px 0 65px 0;
+  background: #000;
+  color: #fff;
+  letter-spacing: 5px;
+  border: none;
+}
